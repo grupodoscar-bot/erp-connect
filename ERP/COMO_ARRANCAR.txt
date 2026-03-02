@@ -1,0 +1,7 @@
+BACKEND
+./gradlew bootRun 
+en la carpeta ERP/demo/demo/demo
+
+FRONTEND
+npm run
+en la carpeta ERP/mi-web-react

@@ -1,0 +1,5 @@
+CMD: ssh -N -L 3390:localhost:3389 root@145.223.103.219
+
+
+ESCRITORIO REMOTO: localhost:3390
+
